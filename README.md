@@ -3,12 +3,14 @@ a python file for you to generate a 2.5D model base on your pictures for 3D prin
 
 # Step 1
 run:
+
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 
 # Step 2
 run: 
+
 python3 tactile_routeB_ams_1.py [your_file_name] \
   --debug_dir debug \
   --k 16 --tol 12 --n_colors 4 \
