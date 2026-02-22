@@ -1,0 +1,28 @@
+[
+  {
+    "part": "color1",
+    "rank": 1,
+    "area_px": 17476,
+    "lab_center": [
+      250.991455078125,
+      129.1963653564453,
+      128.35882568359375
+    ],
+    "relief_mm": 1.0,
+    "texture": "stripes_0deg",
+    "min_clearance_mm": 3.5
+  },
+  {
+    "part": "color2",
+    "rank": 2,
+    "area_px": 4429,
+    "lab_center": [
+      221.04469299316406,
+      131.30059814453125,
+      127.54940795898438
+    ],
+    "relief_mm": 3.0,
+    "texture": "dots",
+    "min_clearance_mm": 3.5
+  }
+]
